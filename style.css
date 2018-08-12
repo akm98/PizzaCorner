@@ -1,0 +1,13 @@
+
+
+body{
+	background-image: linear-gradient(283deg, #144aae, #3366ba, #4584c6, #53a2d1);
+}
+
+a:link{
+    color:white;    
+}
+
+.navbar{
+	min-height: 80px;
+}
